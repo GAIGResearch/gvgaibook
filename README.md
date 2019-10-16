@@ -32,9 +32,9 @@ If your institution does not have access to Morgan & Claypool, a PDF version of 
  
  - Abstract - [PDF](PDF/frontmatter/abstract.pdf?raw=true)
  - Preface - [PDF](PDF/frontmatter/preface.pdf?raw=true)
- - Acknowledgements - [PDF](PDF/frontmatter/acknowledgements.pdf?raw=true)
+ - Acknowledgements - [PDF](PDF/frontmatter/ackowledgements.pdf?raw=true)
 
- 
+
 ### Citing the book:
 
 To cite this book you may use the following:
