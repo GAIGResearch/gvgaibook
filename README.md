@@ -34,7 +34,3 @@ If your institution does not have access to Morgan & Claypool, a PDF version of 
  - Chapter 7 - Automatic General Game Tuning - [PDF](PDF/chapters/ch07.pdf?raw=true) - [Exercises](PDF/exercises/exercises07.pdf?raw=true)
  - Chapter 8 - GVGAI without VGDL - [PDF](PDF/chapters/ch08.pdf?raw=true) - [Exercises](PDF/exercises/exercises08.pdf?raw=true)
  - Chapter 9 - GVGAI: What’s Next? - [PDF](PDF/chapters/ch09.pdf?raw=true)
-
-<img src="https://github.com/GAIGResearch/gvgaibook/blob/master/img/mcGVGAIBook.png" width="60%">
-
-![Image](https://github.com/GAIGResearch/gvgaibook/blob/master/img/mcGVGAIBook.png)
