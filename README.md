@@ -5,11 +5,17 @@ The present book, written by the developers and organizers of the framework, pre
 ## Authors
 
 <b>Diego Pérez Liébana</b>, Queen Mary University of London
+
 <b>Simon M. Luca</b>s, Queen Mary University of London
+
 <b>Raluca D. Gaina</b>, Queen Mary University of London
+
 <b>Julian Togelius</b>, New York University
+
 <b>Ahmed Khalifa</b>, New York University
+
 <b>Jialin Liu</b>, Southern University of Science and Technology
+
 
 ## The Book
 
