@@ -19,42 +19,20 @@ The present book, written by the developers and organizers of the framework, pre
 
 ## The Book
 
-This book is now available.
+This book is now available from Morgan & Claypool Publishers at this <a=href="https://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1464">url</a>. Please follow that link to purchase the hardcopy or the eBook version.
 
+If your institution does not have access to Morgan & Claypool, a PDF version of the chapters and exercises is available below. However, please try the link above first.
 
+### Contents
 
-You can use the [editor on GitHub](https://github.com/GAIGResearch/gvgaibook/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ - Introduction - [PDF](https://github.com/GAIGResearch/gvgaibook/blob/master/PDF/chapters/ch01.pdf)
+ - VGDL and the GVGAI Framework
+ - Planning in GVGAI
+ - Frontiers of GVGAI Planning
+ - Learning in GVGAI
+ - Procedural Content Generation in GVGAI
+ - Automatic General Game Tuning
+ - GVGAI without VGDL
+ - GVGAI: What’s Next?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GAIGResearch/gvgaibook/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](src)
