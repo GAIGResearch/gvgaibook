@@ -25,14 +25,14 @@ If your institution does not have access to Morgan & Claypool, a PDF version of 
 
 ### Contents
 
- - Introduction - [PDF](PDF/chapters/ch01.pdf?raw=true)
- - VGDL and the GVGAI Framework
- - Planning in GVGAI
- - Frontiers of GVGAI Planning
- - Learning in GVGAI
- - Procedural Content Generation in GVGAI
- - Automatic General Game Tuning
- - GVGAI without VGDL
- - GVGAI: What’s Next?
+ - Chapter 1 - Introduction - [PDF](PDF/chapters/ch01.pdf?raw=true)
+ - Chapter 2 - VGDL and the GVGAI Framework - [PDF](PDF/chapters/ch02.pdf?raw=true) - [Exercises](PDF/exercises/exercises02.pdf?raw=true)
+ - Chapter 3 - Planning in GVGAI - [PDF](PDF/chapters/ch03.pdf?raw=true) - [Exercises](PDF/exercises/exercises03.pdf?raw=true)
+ - Chapter 4 - Frontiers of GVGAI Planning - [PDF](PDF/chapters/ch04.pdf?raw=true) - [Exercises](PDF/exercises/exercises04.pdf?raw=true)
+ - Chapter 5 - Learning in GVGAI - [PDF](PDF/chapters/ch05.pdf?raw=true) - [Exercises](PDF/exercises/exercises05.pdf?raw=true)
+ - Chapter 6 - Procedural Content Generation in GVGAI - [PDF](PDF/chapters/ch06.pdf?raw=true) - [Exercises](PDF/exercises/exercises06.pdf?raw=true)
+ - Chapter 7 - Automatic General Game Tuning - [PDF](PDF/chapters/ch07.pdf?raw=true) - [Exercises](PDF/exercises/exercises07.pdf?raw=true)
+ - Chapter 8 - GVGAI without VGDL - [PDF](PDF/chapters/ch08.pdf?raw=true) - [Exercises](PDF/exercises/exercises08.pdf?raw=true)
+ - Chapter 9 - GVGAI: What’s Next? - [PDF](PDF/chapters/ch09.pdf?raw=true)
 
 ![Image](src)
