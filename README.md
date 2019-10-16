@@ -1,5 +1,5 @@
 
-## General Video Game Artificial Intelligence - the book
+## General Video Game Artificial Intelligence - The Book
 
 <div align="center">
   <img src="https://github.com/GAIGResearch/gvgaibook/blob/master/img/mcGVGAIBook.png?raw=true" width="30%">
@@ -14,7 +14,7 @@ The present book, written by the developers and organizers of the framework, pre
 
 ## The Book
 
-This book is now available from Morgan & Claypool Publishers at this [url](https://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1464). Please follow that link to purchase the hardcopy or the eBook version.
+This book is now available from <b>Morgan & Claypool Publishers</b>. Please follow the following link to purchase the hardcopy or the eBook version: [here](https://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1464)
 
 If your institution does not have access to Morgan & Claypool, a PDF version of the chapters and exercises is available below. However, please try the link above first.
 
