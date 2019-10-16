@@ -42,6 +42,8 @@ If your institution does not have access to Morgan & Claypool, a PDF version of 
  
 ### Citing the book:
 
+To cite this book you may use the following:
+
 ```
 @book{gvgaibook2019,
     title={{General Video Game Artificial Intelligence}},
