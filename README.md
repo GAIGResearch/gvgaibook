@@ -40,3 +40,16 @@ If your institution does not have access to Morgan & Claypool, a PDF version of 
  - Acknowledgements - [PDF](PDF/frontmatter/acknowledgements.pdf?raw=true)
 
  
+### Citing the book:
+
+```
+@book{gvgaibook2019,
+    title={{General Video Game Artificial Intelligence}},
+    author={Diego Perez-Liebana and Simon M. Lucas and Raluca D. Gaina and Julian Togelius and Ahmed Khalifa and Jialin Liu},
+    publisher={Morgan and Claypool Publishers},
+    note={\url{https://gaigresearch.github.io/gvgaibook/}},
+    year={2019}
+}
+```
+
+
