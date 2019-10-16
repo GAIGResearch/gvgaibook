@@ -25,7 +25,7 @@ If your institution does not have access to Morgan & Claypool, a PDF version of 
 
 ### Contents
 
- - Introduction - [PDF](PDF/chapters/ch01.pdf)
+ - Introduction - [PDF](PDF/chapters/ch01.pdf?raw=true)
  - VGDL and the GVGAI Framework
  - Planning in GVGAI
  - Frontiers of GVGAI Planning
