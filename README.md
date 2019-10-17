@@ -64,13 +64,13 @@ To cite this book you may use the following:
 <b>Jialin Liu</b>, Southern University of Science and Technology
 
 
-<table width="100%" style="margin-bottom: 20px;">
+<table width="100%" border="0" style="margin-bottom: 20px;">
     <tr>
         <td width="25%" style="padding: 8px; line-height: 20px; text-align: center; vertical-align: center;"><img src="./img/DiegoPerezLiebana.jpg" alt=""> </td>
         <td width="75%" style="padding: 7px; line-height: 20px; text-align: justify; vertical-align: center;">
-            <h5 align="center">  Diego Perez-Liebana  </h5> 
-            <h5 align="center">  Queen Mary University of London  </h5> 
-            <font size="2"><b>Diego Perez-Liebana</b></font><font size="2"> is a Lecturer in Computer Games and AI at QMUL and holds a Ph.D. in CS from the University of Essex (2015). His research interests are Search Algorithms, Evolutionary Computation and Reinforcement Learning applied to Real-time Games and General Video Game Playing. He's published more than 60 papers in leading conferences and journals in the area, including best paper awards (CIG, EvoStar). He's the main organizer behind popular AI game-based competitions in the field, serves as a reviewer in top conferences and journals, he is general chair of the upcoming IEEE Conference on Games (QMUL, 2019). He has experience in the videogames industry  with titles published for both PC and consoles, and also developing AI tools for games.</td>
+            <h4 align="center">  Diego Perez-Liebana  </h4> 
+            <h4 align="center">  Queen Mary University of London  </h4> 
+            <font size="1"><b>Diego Perez-Liebana</b></font><font size="2"> is a Lecturer in Computer Games and AI at QMUL and holds a Ph.D. in CS from the University of Essex (2015). His research interests are Search Algorithms, Evolutionary Computation and Reinforcement Learning applied to Real-time Games and General Video Game Playing. He's published more than 60 papers in leading conferences and journals in the area, including best paper awards (CIG, EvoStar). He's the main organizer behind popular AI game-based competitions in the field, serves as a reviewer in top conferences and journals, he is general chair of the upcoming IEEE Conference on Games (QMUL, 2019). He has experience in the videogames industry  with titles published for both PC and consoles, and also developing AI tools for games.</td>
     </tr>
 </table>
 
