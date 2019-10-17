@@ -53,7 +53,7 @@ To cite this book you may use the following:
 
 
 
-<b>Simon M. Luca</b>s, Queen Mary University of London
+
 
 <b>Raluca D. Gaina</b>, Queen Mary University of London
 
@@ -69,9 +69,17 @@ To cite this book you may use the following:
         <td width="25%" style="padding: 8px; line-height: 20px; text-align: center; vertical-align: center;"><img src="./img/DiegoPerezLiebana.jpg" alt=""> </td>
         <td width="75%" style="padding: 7px; line-height: 20px; text-align: justify; vertical-align: center;">
             <h4 align="center">  <b>Diego Pérez Liébana</b>, Queen Mary University of London  </h4> 
-            <font size="1"><b>Diego Perez-Liebana</b></font><font size="1"> is a Lecturer in Computer Games and AI at QMUL and holds a Ph.D. in CS from the University of Essex (2015). His research interests are Search Algorithms, Evolutionary Computation and Reinforcement Learning applied to Real-time Games and General Video Game Playing. He's published more than 60 papers in leading conferences and journals in the area, including best paper awards (CIG, EvoStar). He's the main organizer behind popular AI game-based competitions in the field, serves as a reviewer in top conferences and journals, he is general chair of the upcoming IEEE Conference on Games (QMUL, 2019). He has experience in the videogames industry  with titles published for both PC and consoles, and also developing AI tools for games.</td>
+            <font size="2">Diego Perez-Liebana is a Lecturer in Computer Games and AI at QMUL and holds a Ph.D. in CS from the University of Essex (2015). His research interests are Search Algorithms, Evolutionary Computation and Reinforcement Learning applied to Real-time Games and General Video Game Playing. He's published more than 60 papers in leading conferences and journals in the area, including best paper awards (CIG, EvoStar). He's the main organizer behind popular AI game-based competitions in the field, serves as a reviewer in top conferences and journals, he is general chair of the upcoming IEEE Conference on Games (QMUL, 2019). He has experience in the videogames industry  with titles published for both PC and consoles, and also developing AI tools for games.</td>
     </tr>
 </table>
 
+<table width="100%" border="0" style="margin-bottom: 20px;">
+    <tr>
+        <td width="25%" style="padding: 8px; line-height: 20px; text-align: center; vertical-align: center;"><img src="./img/simonlucas.jpg" alt=""> </td>
+        <td width="75%" style="padding: 7px; line-height: 20px; text-align: justify; vertical-align: center;">
+            <h4 align="center">  <b>Simon M. Lucas</b>, Queen Mary University of London  </h4> 
+            <font size="2">Simon M. Lucas is a professor of Computer Science at Queen Mary University of London (UK) where he is the Head of School and leads the Game Artificial Intelligence Group. He holds a Ph.D. degree (1991) in Electronics and Computer Science from the University of Southampton. His main research interests are games, evolutionary computation, and machine learning, and he has published widely in these fields with over 180 peer-reviewed papers. He is the inventor of the scanning n-tuple classifier, and is the founding Editor-in-Chief of the IEEE Transactions on Computational Intelligence and AI in Games.</td>
+    </tr>
+</table>
 
 
