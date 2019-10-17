@@ -12,13 +12,13 @@ Research on General Video Game Playing aims at designing agents or content gener
 The present book, written by the developers and organizers of the framework, presents the most interesting highlights of the research performed by the authors during these years in this domain. It showcases work on methods to play the games, generators of content and game optimization. It also outlines potential further work in an area that offers multiple research directions for the future.
 
 
-## The Book
+## <a name="book"></a> The Book
 
 This book is now available from <b>Morgan & Claypool Publishers</b>. Please follow the following link to purchase the hardcopy or the eBook version: [here](https://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1464)
 
 If your institution does not have access to Morgan & Claypool, a PDF version of the chapters and exercises is available below. However, please try the link above first.
 
-### Contents
+### <a name="contents"></a> Contents
 
  - Chapter 1 - Introduction - [PDF](PDF/chapters/ch01.pdf?raw=true)
  - Chapter 2 - VGDL and the GVGAI Framework - [PDF](PDF/chapters/ch02.pdf?raw=true) - [Exercises](PDF/exercises/exercises02.pdf?raw=true)
@@ -35,7 +35,7 @@ If your institution does not have access to Morgan & Claypool, a PDF version of 
  - Acknowledgements - [PDF](PDF/frontmatter/ackowledgements.pdf?raw=true)
 
 
-### Citing the book:
+### <a name="cite"></a> Citing the book:
 
 To cite this book you may use the following:
 
@@ -49,7 +49,7 @@ To cite this book you may use the following:
 }
 ```
 
-## Authors
+## <a name="authors"></a> Authors
 
 <b>Diego Pérez Liébana</b>, Queen Mary University of London
 
