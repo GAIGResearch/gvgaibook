@@ -68,6 +68,7 @@ To cite this book you may use the following:
             <font size="2">Simon M. Lucas is a professor of Computer Science at Queen Mary University of London (UK) where he is the Head of School and leads the Game Artificial Intelligence Group. He holds a Ph.D. degree (1991) in Electronics and Computer Science from the University of Southampton. His main research interests are games, evolutionary computation, and machine learning, and he has published widely in these fields with over 180 peer-reviewed papers. He is the inventor of the scanning n-tuple classifier, and is the founding Editor-in-Chief of the IEEE Transactions on Computational Intelligence and AI in Games.</td>
     </tr>
 </table>
+<br>
 
 <table width="100%" border="0" style="margin-bottom: 20px;">
     <tr>
