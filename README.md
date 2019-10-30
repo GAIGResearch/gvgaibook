@@ -43,7 +43,11 @@ To cite this book you may use the following:
 @book{gvgaibook2019,
     title={General Video Game Artificial Intelligence},
     author={Diego Perez-Liebana and Simon M. Lucas and Raluca D. Gaina and Julian Togelius and Ahmed Khalifa and Jialin Liu},
-    publisher={Morgan and Claypool Publishers},
+    journal={Synthesis Lectures on Games and Computational Intelligence},
+    volume={3},
+    number={2},
+    pages={1--191},
+    publisher={Morgan \& Claypool Publishers},
     note={\url{https://gaigresearch.github.io/gvgaibook/}},
     year={2019}
 }
